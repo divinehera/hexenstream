@@ -9,7 +9,7 @@
             "Gian-Fr",
             "doGior"
         ],
-        "description": "Anime from AnimeWorld. This plugin is a fork of the AnimeWorld plugin in the ItalianProvider repo",
+        "description": "Anime, OVA",
         "fileSize": 41100,
         "repositoryUrl": "https://github.com/divinehera/hexenstream",
         "language": "it",
@@ -31,7 +31,7 @@
         "authors": [
             "divinehera"
         ],
-        "description": "TV Shows and Movies from StreamingCommunity",
+        "description": "Film, Serie TV e Cartoni animati",
         "fileSize": 62329,
         "repositoryUrl": "https://github.com/divinehera/hexenstream",
         "language": "it",
