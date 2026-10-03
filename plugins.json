@@ -32,7 +32,7 @@
             "divinehera"
         ],
         "description": "TV Shows and Movies from StreamingCommunity",
-        "fileSize": 61735,
+        "fileSize": 66319,
         "repositoryUrl": "https://github.com/divinehera/hexenstream",
         "language": "it",
         "tvTypes": [
@@ -43,6 +43,6 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/divinehera/hexenstream/main/StreamingCommunity/icon.png",
         "apiVersion": 1,
-        "fileHash": "sha256-7aa1fbb6916906a0c16f497ecb6ac3d8797cd6a3b9823b3f21b76183de688a7a"
+        "fileHash": "sha256-5baaf825b6b997887edfe916a80c3a1748478d3f5263ca2831c287652fe37b9d"
     }
 ]
