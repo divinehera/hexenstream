@@ -1,6 +1,6 @@
 [
     {
-        "url": "https://raw.githubusercontent.com/divinehera/hexenstream/builds/AnimeWorld.cs3",
+        "url": "https://raw.githubusercontent.com/divinehera/hexenstream/main/AnimeWorld.cs3",
         "status": 1,
         "version": 18,
         "name": "AnimeWorld",
@@ -23,7 +23,7 @@
         "fileHash": "sha256-d751833d4b7925e8afa522c353f6fa1b38d3a0505def2a1abe523eb527d225e1"
     },
     {
-        "url": "https://raw.githubusercontent.com/divinehera/hexenstream/builds/StreamingCommunity.cs3",
+        "url": "https://raw.githubusercontent.com/divinehera/hexenstream/main/StreamingCommunity.cs3",
         "status": 1,
         "version": 34,
         "name": "StreamingCommunity",

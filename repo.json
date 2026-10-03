@@ -1,5 +1,6 @@
 {
   "name": "Hexenstream",
+  "manifestVersion": 1,
   "pluginLists": [
     "https://raw.githubusercontent.com/divinehera/hexenstream/main/plugins.json"
   ]
