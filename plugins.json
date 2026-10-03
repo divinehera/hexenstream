@@ -2,7 +2,7 @@
     {
         "url": "https://raw.githubusercontent.com/divinehera/hexenstream/main/AnimeWorld.cs3",
         "status": 1,
-        "version": 18,
+        "version": 19,
         "name": "AnimeWorld",
         "internalName": "AnimeWorld",
         "authors": [
@@ -10,7 +10,7 @@
             "doGior"
         ],
         "description": "Anime from AnimeWorld. This plugin is a fork of the AnimeWorld plugin in the ItalianProvider repo",
-        "fileSize": 41097,
+        "fileSize": 41102,
         "repositoryUrl": "https://github.com/divinehera/hexenstream",
         "language": "it",
         "tvTypes": [
@@ -20,7 +20,7 @@
         ],
         "iconUrl": "https://static.animeworld.ac/assets/images/favicon/android-icon-192x192.png?s",
         "apiVersion": 1,
-        "fileHash": "sha256-d751833d4b7925e8afa522c353f6fa1b38d3a0505def2a1abe523eb527d225e1"
+        "fileHash": "sha256-bba5cecb4a84c1dfe12bf964f8eb75f50d2b058d91fe33524701688776de3e67"
     },
     {
         "url": "https://raw.githubusercontent.com/divinehera/hexenstream/main/StreamingCommunity.cs3",
