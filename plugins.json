@@ -2,8 +2,15 @@
   {
     "name": "AnimeWorld",
     "internalName": "AnimeWorld",
-    "version": 1,
+    "version": 35,
     "status": 1,
+    "types": [
+      "Anime"
+    ],
+    "tvTypes": [
+      "Anime"
+    ],
+    "language": "it",
     "url": "https://raw.githubusercontent.com/divinehera/hexenstream/main/AnimeWorld.cs3",
     "fileUrl": "https://raw.githubusercontent.com/divinehera/hexenstream/main/AnimeWorld.cs3",
     "hash": "d751833d4b7925e8afa522c353f6fa1b38d3a0505def2a1abe523eb527d225e1",
@@ -14,8 +21,21 @@
   {
     "name": "StreamingCommunity",
     "internalName": "StreamingCommunity",
-    "version": 1,
+    "version": 35,
     "status": 1,
+    "types": [
+      "TvSeries",
+      "Movie",
+      "Documentary",
+      "Cartoon"
+    ],
+    "tvTypes": [
+      "TvSeries",
+      "Movie",
+      "Documentary",
+      "Cartoon"
+    ],
+    "language": "it",
     "url": "https://raw.githubusercontent.com/divinehera/hexenstream/main/StreamingCommunity.cs3",
     "fileUrl": "https://raw.githubusercontent.com/divinehera/hexenstream/main/StreamingCommunity.cs3",
     "hash": "e321d6ac77390ceeeda807428effcf225e9362365efb47b8f8e40713cf3cff9f",
