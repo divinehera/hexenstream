@@ -1,46 +1,48 @@
 [
-  {
-    "name": "AnimeWorld",
-    "internalName": "AnimeWorld",
-    "version": 35,
-    "status": 1,
-    "types": [
-      "Anime"
-    ],
-    "tvTypes": [
-      "Anime"
-    ],
-    "language": "it",
-    "url": "https://raw.githubusercontent.com/divinehera/hexenstream/main/AnimeWorld.cs3",
-    "fileUrl": "https://raw.githubusercontent.com/divinehera/hexenstream/main/AnimeWorld.cs3",
-    "hash": "d751833d4b7925e8afa522c353f6fa1b38d3a0505def2a1abe523eb527d225e1",
-    "authors": [
-      "divinehera"
-    ]
-  },
-  {
-    "name": "StreamingCommunity",
-    "internalName": "StreamingCommunity",
-    "version": 35,
-    "status": 1,
-    "types": [
-      "TvSeries",
-      "Movie",
-      "Documentary",
-      "Cartoon"
-    ],
-    "tvTypes": [
-      "TvSeries",
-      "Movie",
-      "Documentary",
-      "Cartoon"
-    ],
-    "language": "it",
-    "url": "https://raw.githubusercontent.com/divinehera/hexenstream/main/StreamingCommunity.cs3",
-    "fileUrl": "https://raw.githubusercontent.com/divinehera/hexenstream/main/StreamingCommunity.cs3",
-    "hash": "e321d6ac77390ceeeda807428effcf225e9362365efb47b8f8e40713cf3cff9f",
-    "authors": [
-      "divinehera"
-    ]
-  }
+    {
+        "url": "https://raw.githubusercontent.com/divinehera/hexenstream/builds/AnimeWorld.cs3",
+        "status": 1,
+        "version": 18,
+        "name": "AnimeWorld",
+        "internalName": "AnimeWorld",
+        "authors": [
+            "Gian-Fr",
+            "doGior"
+        ],
+        "description": "Anime from AnimeWorld. This plugin is a fork of the AnimeWorld plugin in the ItalianProvider repo",
+        "fileSize": 41097,
+        "repositoryUrl": "https://github.com/divinehera/hexenstream",
+        "language": "it",
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "iconUrl": "https://static.animeworld.ac/assets/images/favicon/android-icon-192x192.png?s",
+        "apiVersion": 1,
+        "fileHash": "sha256-d751833d4b7925e8afa522c353f6fa1b38d3a0505def2a1abe523eb527d225e1"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/divinehera/hexenstream/builds/StreamingCommunity.cs3",
+        "status": 1,
+        "version": 34,
+        "name": "StreamingCommunity",
+        "internalName": "StreamingCommunity",
+        "authors": [
+            "divinehera"
+        ],
+        "description": "TV Shows and Movies from StreamingCommunity",
+        "fileSize": 61029,
+        "repositoryUrl": "https://github.com/divinehera/hexenstream",
+        "language": "it",
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Documentary",
+            "Cartoon"
+        ],
+        "iconUrl": "https://streamingunity.dog/apple-touch-icon.png?v=2",
+        "apiVersion": 1,
+        "fileHash": "sha256-e321d6ac77390ceeeda807428effcf225e9362365efb47b8f8e40713cf3cff9f"
+    }
 ]
