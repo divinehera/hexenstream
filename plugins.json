@@ -32,7 +32,7 @@
             "streifics"
         ],
         "description": "Calcio (telecronaca inglese)",
-        "fileSize": 12937,
+        "fileSize": 14690,
         "repositoryUrl": "https://github.com/divinehera/hexenstream",
         "language": "it",
         "tvTypes": [
@@ -40,7 +40,7 @@
         ],
         "iconUrl": "https://streamfree.top/thumbnails/soccer_ghana-vs-england",
         "apiVersion": 1,
-        "fileHash": "sha256-c5659fa764eceaa97a3368ff73b4911fedff8049381638162c9bf0c51b14365d"
+        "fileHash": "sha256-43d69caf1d25423db899b911979f24d91fe335f366ae7459877e84f70e9b5748"
     },
     {
         "url": "https://raw.githubusercontent.com/divinehera/hexenstream/main/StreamingCommunity.cs3",
